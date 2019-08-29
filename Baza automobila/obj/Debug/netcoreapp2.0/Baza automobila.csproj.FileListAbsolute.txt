@@ -1,0 +1,12 @@
+C:\Users\Student\Desktop\Pin projekt\Baza automobila\Baza automobila\bin\Debug\netcoreapp2.0\Baza automobila.deps.json
+C:\Users\Student\Desktop\Pin projekt\Baza automobila\Baza automobila\bin\Debug\netcoreapp2.0\Baza automobila.runtimeconfig.json
+C:\Users\Student\Desktop\Pin projekt\Baza automobila\Baza automobila\bin\Debug\netcoreapp2.0\Baza automobila.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Pin projekt\Baza automobila\Baza automobila\bin\Debug\netcoreapp2.0\Baza automobila.dll
+C:\Users\Student\Desktop\Pin projekt\Baza automobila\Baza automobila\bin\Debug\netcoreapp2.0\Baza automobila.pdb
+C:\Users\Student\Desktop\Pin projekt\Baza automobila\Baza automobila\obj\Debug\netcoreapp2.0\Baza automobila.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Pin projekt\Baza automobila\Baza automobila\obj\Debug\netcoreapp2.0\Baza automobila.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Pin projekt\Baza automobila\Baza automobila\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Student\Desktop\Pin projekt\Baza automobila\Baza automobila\obj\Debug\netcoreapp2.0\Baza automobila.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Pin projekt\Baza automobila\Baza automobila\obj\Debug\netcoreapp2.0\Baza automobila.AssemblyInfo.cs
+C:\Users\Student\Desktop\Pin projekt\Baza automobila\Baza automobila\obj\Debug\netcoreapp2.0\Baza automobila.dll
+C:\Users\Student\Desktop\Pin projekt\Baza automobila\Baza automobila\obj\Debug\netcoreapp2.0\Baza automobila.pdb
