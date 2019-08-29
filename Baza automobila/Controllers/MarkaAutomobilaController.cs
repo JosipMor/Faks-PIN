@@ -4,12 +4,14 @@ using System.Linq;
 using System.Threading.Tasks;
 using Baza_automobila.Data;
 using BazaAutomobila.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace BazaAutomobila.Controllers
 {
+    [Authorize]
     public class MarkaAutomobilaController : Controller
     {
         private readonly ApplicationDbContext context;

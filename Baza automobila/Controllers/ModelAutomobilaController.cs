@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Baza_automobila.Data;
 using BazaAutomobila.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -11,6 +12,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BazaAutomobila.Controllers
 {
+    [Authorize]
     public class ModelAutomobilaController : Controller
     {
         private readonly ApplicationDbContext context;
